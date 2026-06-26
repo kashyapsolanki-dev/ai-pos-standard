@@ -1,0 +1,27 @@
+# Operating System
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# Environment Variables
+
+.env
+.env.*
+
+# Python
+
+**pycache**/
+*.pyc
+
+# VS Code Workspace Settings
+
+.vscode/settings.json
+
+# Temporary Files
+
+*.tmp
+*.temp
